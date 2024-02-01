@@ -1,0 +1,15 @@
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/bin/Debug/net7.0/WorkintechRestApiDemo.Business.deps.json
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/bin/Debug/net7.0/WorkintechRestApiDemo.Business.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/bin/Debug/net7.0/WorkintechRestApiDemo.Business.pdb
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.AssemblyInfoInputs.cache
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.AssemblyInfo.cs
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.csproj.CoreCompileInputs.cache
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/refint/WorkintechRestApiDemo.Business.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.pdb
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/ref/WorkintechRestApiDemo.Business.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/bin/Debug/net7.0/WorkintechRestApiDemo.Domain.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/bin/Debug/net7.0/WorkintechRestApiDemo.Domain.pdb
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.csproj.AssemblyReference.cache
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Business/obj/Debug/net7.0/WorkintechRestApiDemo.Business.csproj.CopyComplete

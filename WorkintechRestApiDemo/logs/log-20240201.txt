@@ -1,0 +1,33 @@
+2024-02-01 19:46:52.840 +03:00 [WRN] RequestPath = /swagger/index.html --- HttpVerb = GET Total request time: 52ms
+2024-02-01 19:46:52.930 +03:00 [WRN] RequestPath = /swagger/swagger-ui.css --- HttpVerb = GET Total request time: 8ms
+2024-02-01 19:46:52.939 +03:00 [WRN] RequestPath = /swagger/swagger-ui-bundle.js --- HttpVerb = GET Total request time: 15ms
+2024-02-01 19:46:53.005 +03:00 [WRN] RequestPath = /swagger/swagger-ui-standalone-preset.js --- HttpVerb = GET Total request time: 58ms
+2024-02-01 19:46:53.097 +03:00 [WRN] RequestPath = /swagger/v1/swagger.json --- HttpVerb = GET Total request time: 50ms
+2024-02-01 19:47:53.053 +03:00 [INF] GetCurrency methodu çağrıldı
+2024-02-01 19:47:53.059 +03:00 [INF] Service Katmanından GetCurrency methodu çağrıldı
+2024-02-01 19:47:53.845 +03:00 [INF] currencyResponse: {"CAD":1.3434901525,"EUR":0.9256900988,"TRY":30.3617142214,"USD":1,"data":null,"$type":"CurrencyResponse"}
+2024-02-01 19:47:53.865 +03:00 [WRN] RequestPath = /api/Currency/GetCurrency --- HttpVerb = GET Total request time: 833ms
+2024-02-01 20:16:49.430 +03:00 [WRN] RequestPath = /swagger/index.html --- HttpVerb = GET Total request time: 50ms
+2024-02-01 20:16:49.623 +03:00 [WRN] RequestPath = /swagger/v1/swagger.json --- HttpVerb = GET Total request time: 48ms
+2024-02-01 20:17:41.407 +03:00 [INF] GetCurrency methodu çağrıldı
+2024-02-01 20:17:41.408 +03:00 [INF] Service Katmanından GetCurrency methodu çağrıldı
+2024-02-01 20:17:41.793 +03:00 [INF] currencyResponse: {"CAD":1.3434901525,"EUR":0.9256900988,"TRY":30.3617142214,"USD":1,"data":null,"$type":"CurrencyResponse"}
+2024-02-01 20:17:41.817 +03:00 [WRN] RequestPath = /api/Currency/GetCurrency --- HttpVerb = GET Total request time: 454ms
+2024-02-01 20:21:38.285 +03:00 [INF] GetCurrencySymbol methodu çağrıldı
+2024-02-01 20:21:38.287 +03:00 [INF] Service Katmanından GetCurrencySymbol methodu çağrıldı
+2024-02-01 20:21:38.288 +03:00 [INF] currencyCode: USD
+2024-02-01 20:21:38.288 +03:00 [INF] currencySymbol: $
+2024-02-01 20:21:38.288 +03:00 [WRN] RequestPath = /api/Currency/GetCurrencySymbol/USD --- HttpVerb = GET Total request time: 33ms
+2024-02-01 20:21:41.507 +03:00 [INF] GetCurrencySymbol methodu çağrıldı
+2024-02-01 20:21:41.509 +03:00 [INF] Service Katmanından GetCurrencySymbol methodu çağrıldı
+2024-02-01 20:21:41.509 +03:00 [INF] currencyCode: USD
+2024-02-01 20:21:41.509 +03:00 [INF] currencySymbol: $
+2024-02-01 20:21:41.509 +03:00 [WRN] RequestPath = /api/Currency/GetCurrencySymbol/USD --- HttpVerb = GET Total request time: 3ms
+2024-02-01 21:23:25.475 +03:00 [WRN] RequestPath = /swagger/index.html --- HttpVerb = GET Total request time: 48ms
+2024-02-01 21:23:25.614 +03:00 [WRN] RequestPath = /swagger/v1/swagger.json --- HttpVerb = GET Total request time: 46ms
+2024-02-01 21:23:53.467 +03:00 [INF] Cities are fetched. @["Ankara","İstanbul","İzmir","Adana","Afyonkarahisar","Adıyaman","Ağrı"]
+2024-02-01 21:23:53.482 +03:00 [WRN] RequestPath = /api/City/GetAll --- HttpVerb = GET Total request time: 44ms
+2024-02-01 21:35:19.306 +03:00 [INF] GetCurrency methodu çağrıldı
+2024-02-01 21:35:19.307 +03:00 [INF] Service Katmanından GetCurrency methodu çağrıldı
+2024-02-01 21:35:19.586 +03:00 [INF] currencyResponse: {"CAD":1.3434901525,"EUR":0.9256900988,"TRY":30.3617142214,"USD":1,"data":null,"$type":"CurrencyResponse"}
+2024-02-01 21:35:19.600 +03:00 [WRN] RequestPath = /api/Currency/GetCurrency --- HttpVerb = GET Total request time: 324ms

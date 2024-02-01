@@ -1,0 +1,12 @@
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/bin/Release/net7.0/WorkintechRestApiDemo.Domain.deps.json
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/bin/Release/net7.0/WorkintechRestApiDemo.Domain.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/bin/Release/net7.0/WorkintechRestApiDemo.Domain.pdb
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/WorkintechRestApiDemo.Domain.csproj.AssemblyReference.cache
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/WorkintechRestApiDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/WorkintechRestApiDemo.Domain.AssemblyInfoInputs.cache
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/WorkintechRestApiDemo.Domain.AssemblyInfo.cs
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/WorkintechRestApiDemo.Domain.csproj.CoreCompileInputs.cache
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/WorkintechRestApiDemo.Domain.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/refint/WorkintechRestApiDemo.Domain.dll
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/WorkintechRestApiDemo.Domain.pdb
+/Users/aysenursahin/Desktop/APS.NetCore/WorkintechRestApiDemo/WorkintechRestApiDemo.Domain/obj/Release/net7.0/ref/WorkintechRestApiDemo.Domain.dll
